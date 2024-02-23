@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S D:\GameTechYear1\C++\breakout-22-23-OscarNg0107 -B D:\GameTechYear1\C++\breakout-22-23-OscarNg0107\cmake-build-debug
+"C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S C:\GameTech\Portfolio\breakout-22-23-OscarNg0107 -B C:\GameTech\Portfolio\breakout-22-23-OscarNg0107\cmake-build-debug
 -- The C compiler identification is GNU 11.2.0
 -- The CXX compiler identification is GNU 11.2.0
 -- Detecting C compiler ABI info
@@ -14,4 +14,4 @@
 -- Found SFML 2.5.1 in C:/SFML-2.5.1/lib/cmake/SFML
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/GameTechYear1/C++/breakout-22-23-OscarNg0107/cmake-build-debug
+-- Build files have been written to: C:/GameTech/Portfolio/breakout-22-23-OscarNg0107/cmake-build-debug

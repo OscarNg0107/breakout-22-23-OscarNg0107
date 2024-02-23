@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = D$:/GameTechYear1/C++/breakout-22-23-OscarNg0107/cmake-build-debug/
+cmake_ninja_workdir = C$:/GameTech/Portfolio/breakout-22-23-OscarNg0107/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target BreakoutSFML
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = D$:/GameTechYear1/C++/breakout-22-23-OscarNg0107/cmake-bui
 
 build cmake_object_order_depends_target_BreakoutSFML: phony || CMakeFiles/BreakoutSFML.dir
 
-build CMakeFiles/BreakoutSFML.dir/src/main.cpp.obj: CXX_COMPILER__BreakoutSFML_Debug D$:/GameTechYear1/C++/breakout-22-23-OscarNg0107/src/main.cpp || cmake_object_order_depends_target_BreakoutSFML
+build CMakeFiles/BreakoutSFML.dir/src/main.cpp.obj: CXX_COMPILER__BreakoutSFML_Debug C$:/GameTech/Portfolio/breakout-22-23-OscarNg0107/src/main.cpp || cmake_object_order_depends_target_BreakoutSFML
   DEFINES = -DSFML_STATIC
   DEP_FILE = CMakeFiles\BreakoutSFML.dir\src\main.cpp.obj.d
   FLAGS = -g -std=gnu++14
@@ -59,7 +59,7 @@ build CMakeFiles/BreakoutSFML.dir/src/main.cpp.obj: CXX_COMPILER__BreakoutSFML_D
   TARGET_COMPILE_PDB = CMakeFiles\BreakoutSFML.dir\
   TARGET_PDB = BreakoutSFML.pdb
 
-build CMakeFiles/BreakoutSFML.dir/src/Game.cpp.obj: CXX_COMPILER__BreakoutSFML_Debug D$:/GameTechYear1/C++/breakout-22-23-OscarNg0107/src/Game.cpp || cmake_object_order_depends_target_BreakoutSFML
+build CMakeFiles/BreakoutSFML.dir/src/Game.cpp.obj: CXX_COMPILER__BreakoutSFML_Debug C$:/GameTech/Portfolio/breakout-22-23-OscarNg0107/src/Game.cpp || cmake_object_order_depends_target_BreakoutSFML
   DEFINES = -DSFML_STATIC
   DEP_FILE = CMakeFiles\BreakoutSFML.dir\src\Game.cpp.obj.d
   FLAGS = -g -std=gnu++14
@@ -69,7 +69,7 @@ build CMakeFiles/BreakoutSFML.dir/src/Game.cpp.obj: CXX_COMPILER__BreakoutSFML_D
   TARGET_COMPILE_PDB = CMakeFiles\BreakoutSFML.dir\
   TARGET_PDB = BreakoutSFML.pdb
 
-build CMakeFiles/BreakoutSFML.dir/src/Vector2.cpp.obj: CXX_COMPILER__BreakoutSFML_Debug D$:/GameTechYear1/C++/breakout-22-23-OscarNg0107/src/Vector2.cpp || cmake_object_order_depends_target_BreakoutSFML
+build CMakeFiles/BreakoutSFML.dir/src/Vector2.cpp.obj: CXX_COMPILER__BreakoutSFML_Debug C$:/GameTech/Portfolio/breakout-22-23-OscarNg0107/src/Vector2.cpp || cmake_object_order_depends_target_BreakoutSFML
   DEFINES = -DSFML_STATIC
   DEP_FILE = CMakeFiles\BreakoutSFML.dir\src\Vector2.cpp.obj.d
   FLAGS = -g -std=gnu++14
@@ -79,7 +79,7 @@ build CMakeFiles/BreakoutSFML.dir/src/Vector2.cpp.obj: CXX_COMPILER__BreakoutSFM
   TARGET_COMPILE_PDB = CMakeFiles\BreakoutSFML.dir\
   TARGET_PDB = BreakoutSFML.pdb
 
-build CMakeFiles/BreakoutSFML.dir/src/GameObject.cpp.obj: CXX_COMPILER__BreakoutSFML_Debug D$:/GameTechYear1/C++/breakout-22-23-OscarNg0107/src/GameObject.cpp || cmake_object_order_depends_target_BreakoutSFML
+build CMakeFiles/BreakoutSFML.dir/src/GameObject.cpp.obj: CXX_COMPILER__BreakoutSFML_Debug C$:/GameTech/Portfolio/breakout-22-23-OscarNg0107/src/GameObject.cpp || cmake_object_order_depends_target_BreakoutSFML
   DEFINES = -DSFML_STATIC
   DEP_FILE = CMakeFiles\BreakoutSFML.dir\src\GameObject.cpp.obj.d
   FLAGS = -g -std=gnu++14
@@ -114,7 +114,7 @@ build BreakoutSFML.exe: CXX_EXECUTABLE_LINKER__BreakoutSFML_Debug CMakeFiles/Bre
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D D:\GameTechYear1\C++\breakout-22-23-OscarNg0107\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\GameTech\Portfolio\breakout-22-23-OscarNg0107\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -125,7 +125,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D D:\GameTechYear1\C++\breakout-22-23-OscarNg0107\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SD:\GameTechYear1\C++\breakout-22-23-OscarNg0107 -BD:\GameTechYear1\C++\breakout-22-23-OscarNg0107\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\GameTech\Portfolio\breakout-22-23-OscarNg0107\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\GameTech\Portfolio\breakout-22-23-OscarNg0107 -BC:\GameTech\Portfolio\breakout-22-23-OscarNg0107\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -143,7 +143,7 @@ build BreakoutSFML: phony BreakoutSFML.exe
 # =============================================================================
 
 #############################################
-# Folder: D:/GameTechYear1/C++/breakout-22-23-OscarNg0107/cmake-build-debug
+# Folder: C:/GameTech/Portfolio/breakout-22-23-OscarNg0107/cmake-build-debug
 
 build all: phony BreakoutSFML.exe
 

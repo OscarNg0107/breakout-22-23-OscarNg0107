@@ -1,4 +1,4 @@
-# Install script for directory: D:/GameTechYear1/C++/breakout-22-23-OscarNg0107
+# Install script for directory: C:/GameTech/Portfolio/breakout-22-23-OscarNg0107
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/GameTechYear1/C++/breakout-22-23-OscarNg0107/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/GameTech/Portfolio/breakout-22-23-OscarNg0107/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
