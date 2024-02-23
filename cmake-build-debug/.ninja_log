@@ -1,0 +1,6 @@
+# ninja log v5
+98	1113	6980015440926163	CMakeFiles/BreakoutSFML.dir/src/GameObject.cpp.obj	ca8c86dd536d6f8e
+38	166	6962726482259554	CMakeFiles/BreakoutSFML.dir/src/Vector2.cpp.obj	6415923adb9fd829
+3	502	6980032706113827	CMakeFiles/BreakoutSFML.dir/src/main.cpp.obj	bebdceec05a6f322
+2	480	6986324282913884	CMakeFiles/BreakoutSFML.dir/src/Game.cpp.obj	be1167bbbcedbd82
+481	1166	6986324289676624	BreakoutSFML.exe	a142f8ff3500de8f
